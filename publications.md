@@ -23,7 +23,7 @@ David Freeman Engstrom & <strong> Amit Haim </strong> <br />
 <p><strong>Progressive Algorithms</strong><br />
 <strong> Amit Haim </strong> & Itay Ravid <br />
 <em>12 UC IRVINE LAW REVIEW 527 (2022)</em>    <br />
-<a href=https://scholarship.law.uci.edu/ucilr/vol12/iss2/20/" target="_blank">[paper]</a> </p>		
+<a href="https://scholarship.law.uci.edu/ucilr/vol12/iss2/20/" target="_blank">[paper]</a> </p>		
 
 <p><strong>Image Analysis Approach to Trademark Congestion and Depletion</strong><br />
 Aniket Kesari & <strong> Amit Haim </strong> <br />
