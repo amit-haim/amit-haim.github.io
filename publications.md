@@ -3,11 +3,6 @@ layout: page
 title: Publications
 ---
 
-<h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
-
-
-
-
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
 <p><strong>The Administrative State and Artificial Intelligence: Towards the Internal Law of Administrative Algorithms</strong><br />
@@ -40,4 +35,20 @@ David Freeman Engstrom, <strong> Amit Haim </strong> & Daniel E. Ho <br />
 <em>in GOVERNMENT BY ALGORITHM: AI IN FEDERAL ADMINISTRATIVE AGENCIES 82 (2020) </em>    <br />
 <a href="https://www.acus.gov/document/government-algorithm-artificial-intelligence-federal-administrative-agencies" target="_blank">[paper]</a> </p>	
 
+<h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
+<p><strong>Shall or Should: A Computational Approach to Binding Language in Administrative 
+Guidance</strong><br />
+Amit Haim <br />
+<em>draft available upon request</em>    <br />
+</p>
+
+<p><strong>Perceived Algorithmic Legitimacy in the Administrative State</strong><br />
+<strong> Amit Haim </strong> & Dvir Yogev <br />
+<em>under review</em>    <br />
+</p>
+
+<p><strong>Perceived Implementing Predictive Algorithms in the Frontlines of the Administrative State: Empirical Evidence from Child Protection Screening</strong><br />
+<strong> Amit Haim </strong> & Rhema Vaithianathan <br />
+<em>draft available upon request</em>    <br />
+</p>	
